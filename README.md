@@ -27,7 +27,7 @@ Machine learning-based network intrusion detection using UNSW-NB15 dataset.
 ✅ Phase 7: GitHub Documentation
 
 ## Author
-[Your Name]
+Rogen O. Magbanua
 
 ## Date
 November 27, 2026

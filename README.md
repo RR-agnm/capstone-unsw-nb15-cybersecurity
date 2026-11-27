@@ -48,10 +48,17 @@ This project applies Machine Learning to detect network intrusions using the UNS
 
 ## Author
 
-Name: [Your Name]
-Advisor: Prof. Savita Kaur Sodhi
-Date: November 27, 2026
+Rogen O. Magbanua
+
+## Advisor
+
+Prof. Savita Kaur Sodhi
+
+## Date
+
+November 27, 2026
 
 ## License
 
 MIT License
+November 27, 2026
